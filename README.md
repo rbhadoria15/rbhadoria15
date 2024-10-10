@@ -1,1 +1,13 @@
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+PzFactNbUwCntInsureBnft1
+PzFactNbUwCntInsureBnft2
+PzFactNbUwCntInsureBnft3
+PzBrgNbUwCntInsRating
+PzBrgNbContractimpairment
+PzBrgNbContractExclusion
+PzBrgNbContractCorr
+PzBrgNbContractAmendment
+PzBrgNbCntUwRiskClass
+PzBrgNbCntReinOffer
+PzBrgNbCntOriginalOffer
+PzBrgNbCntExtraPremRate
+PzBrgNbCntDclnReason
