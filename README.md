@@ -1,2 +1,9 @@
+SELECT 
+    "column",
+    "default"
+FROM 
+    pg_table_def
+WHERE 
+    schemaname = 'your_schema_name' AND
+    tablename = 'your_table_name';
 
-[UT_mct_RsFactNbPersonalFinancial_4.xlsx](https://github.com/user-attachments/files/17480955/UT_mct_RsFactNbPersonalFinancial_4.xlsx)
