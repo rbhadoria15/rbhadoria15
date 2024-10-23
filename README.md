@@ -1,9 +1,11 @@
 SELECT 
-    "column",
-    "default"
+    a.attname AS column_name,
+    d.adsrc AS default_value
 FROM 
-    pg_table_def
+    pg_attribute a
+JOIN 
+    pg_attrdef d ON a.attnum = d.adnum AND a.attrelid = d.adrelid
 WHERE 
-    schemaname = 'your_schema_name' AND
-    tablename = 'your_table_name';
-
+    a.attrelid = 'public.employees'::regclass
+    AND a.attnum > 0
+    AND NOT a.attisdropped;
