@@ -9,3 +9,8 @@ WHERE
     a.attrelid = 'public.employees'::regclass
     AND a.attnum > 0
     AND NOT a.attisdropped;
+
+
+SELECT *
+FROM pg_table_def
+WHERE schemaname = 'public' AND tablename = 'employees';
