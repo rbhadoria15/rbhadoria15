@@ -14,7 +14,7 @@ PzFactNbCntPartyRelshpCDC	fact_nb_cnt_party_relshp----done
 PzFactNbMIB_1
 PzFactNbMIB_2	fact_nb_mib---done
 
-PzFactNbUwMIB	fact_nb_uw_mib
+PzFactNbUwMIB	fact_nb_uw_mib---done
 
 PzFactNbPersonalFinancial_1
 PzFactNbPersonalFinancial_2
