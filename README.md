@@ -11,3 +11,10 @@ PzFactNbSurgery_2
 PzFactNbSurgery_3
 PzFactNbSurgery_SrcRecs1
 PzFactNbSurgery_SrcRecs2"	fact_nb_surgery
+
+***********************************************
+
+"PzFactNbPersonalFinancial_1
+PzFactNbPersonalFinancial_2
+PzFactNbPersonalFinancial_3
+PzFactNbPersonalFinancial_4"
