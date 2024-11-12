@@ -18,3 +18,6 @@ PzFactNbSurgery_SrcRecs2"	fact_nb_surgery
 PzFactNbPersonalFinancial_2
 PzFactNbPersonalFinancial_3
 PzFactNbPersonalFinancial_4"
+
+
+num(lnk_LkpMedCond.client_ref) <> 1 Then -99
