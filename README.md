@@ -20,4 +20,6 @@ PzFactNbPersonalFinancial_3
 PzFactNbPersonalFinancial_4"
 
 
-num(lnk_LkpMedCond.client_ref) <> 1 Then -99
+"PzFactNbHospitalEmergency_pvt_1
+PzFactNbHospitalEmergency_pvt_2
+PzFactNbHospitalEmergency_pvt_3"	fact_nb_hospital_emergency
