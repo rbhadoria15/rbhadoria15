@@ -27,4 +27,4 @@ PzFactNbHospitalEmergency_pvt_3	fact_nb_hospital_emergency
 ********************************************************
 
 
-dim_nb_physician
+PzFactNbCntInsuredPegaTrans	fact_nb_cnt_insured_pega_trans
