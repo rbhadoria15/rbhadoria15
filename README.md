@@ -26,3 +26,5 @@ PzFactNbHospitalEmergency_pvt_3	fact_nb_hospital_emergency
 
 ********************************************************
 
+
+*DimNbPhysician_pvt
