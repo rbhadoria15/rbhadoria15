@@ -28,3 +28,7 @@ PzFactNbHospitalEmergency_pvt_3	fact_nb_hospital_emergency
 
 
 PzFactNbCntInsuredPegaTrans	fact_nb_cnt_insured_pega_trans
+
+************************************************************
+
+nbleisurecdc
