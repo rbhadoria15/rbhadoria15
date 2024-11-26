@@ -35,10 +35,4 @@ IDMC --LTRIM(RTRIM(REG_REPLACE(REG_REPLACE(ACTVTY_DESC,'\t+', ' '),' +', ' ')))
 
 *******************************************************************************************
 
-fact_nb_cnt_insured_pega_trans
-fact_nb_cnt_party_relshp
-fact_nb_mib
-fact_nb_uw_mib
-fact_nb_personal_financial
-brg_nb_contract_corr
-brg_nb_cnt_extra_prem_rate
+m_RsFactAgentCandidateLeadScore
