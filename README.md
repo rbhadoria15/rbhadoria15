@@ -1,38 +1,26 @@
-PzAlipAgencyDashboardPartialExtract
-PzNbAgencyDashboardPartialExtract
-nb_agency_dashboard_partial_extract
-$$EscapeParameter = idmcconv
-fact_producer_ledger
+PzFactNbCntInsuredPegaTrans
+"PzFactNbCntPartyRelshp1
+PzFactNbCntPartyRelshp2
+PzFactNbCntPartyRelshpCDC"
+"PzFactNbMIB_1
+PzFactNbMIB_2"
+PzFactNbUwMIB
+"PzFactNbPersonalFinancial_1
+PzFactNbPersonalFinancial_2
+PzFactNbPersonalFinancial_3
+PzFactNbPersonalFinancial_4"
+PzBrgNbContractCorr
+PzBrgNbCntExtraPremRate
 
-****************************************************
+"PzFactNbHospitalEmergency_pvt_1
+PzFactNbHospitalEmergency_pvt_2
+PzFactNbHospitalEmergency_pvt_3"
+PzFactNbPegaAuditTrans
+PzBrgNbContractBypassDtl
 
-PzFactNbSurgery_1
+
+"PzFactNbSurgery_1
 PzFactNbSurgery_2
 PzFactNbSurgery_3
 PzFactNbSurgery_SrcRecs1
-PzFactNbSurgery_SrcRecs2	fact_nb_surgery
-
-***********************************************
-
-PzFactNbPersonalFinancial_1
-PzFactNbPersonalFinancial_2
-PzFactNbPersonalFinancial_3
-PzFactNbPersonalFinancial_4
-
-
-PzFactNbHospitalEmergency_pvt_1
-PzFactNbHospitalEmergency_pvt_2
-PzFactNbHospitalEmergency_pvt_3	fact_nb_hospital_emergency
-
-********************************************************
-
-
-PzFactNbCntInsuredPegaTrans	fact_nb_cnt_insured_pega_trans
-
-************************************************************
-IDMC --LTRIM(RTRIM(REG_REPLACE(REG_REPLACE(ACTVTY_DESC,'\t+', ' '),' +', ' ')))
-
-
-*******************************************************************************************
-
-m_RsFactAgentCandidateLeadScore
+PzFactNbSurgery_SrcRecs2"
