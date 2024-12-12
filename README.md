@@ -1,1 +1,29 @@
-fact_nb_cnt_business_creditor
+BusinessProject	Primary TableName	Datastage Run time	IDMC Run time	Owner
+Party	fact_agent_candidate_lead_screen			Rajat
+Party	fact_agent_candidate_recrtmt			Rajat
+Party	fact_agent_staff_relation			Rajat
+Party	fact_book_of_business			Rajat
+Party	fact_client_communication			Rajat
+Party	fact_client_subscription			Rajat
+Party	fact_fatca			Rajat
+Party	fact_fmis_cnt_producer_prem_share			Rajat
+Party	fact_producer			Rajat
+Party	fact_producer_activity			Rajat
+Party	fact_producer_additional_expense			Rajat
+Party	fact_producer_addl_dtls			Rajat
+Party	fact_producer_advisory_board_director			Rajat
+Party	fact_producer_certification			Rajat
+Party	fact_producer_compensation			Rajat
+Party	fact_producer_council			Rajat
+Party	fact_producer_debit_arrangement			Rajat
+Party	fact_producer_derv			Rajat
+Party	fact_producer_ed_lic_cmplnc			Rajat
+Party	fact_producer_financial_institution			Rajat
+Party	fact_producer_finra			Rajat
+Party	fact_producer_fld_suprt_enroll			Rajat
+Party	fact_producer_general_office_comp			Rajat
+Party	fact_producer_group_membership			Rajat
+Party	fact_producer_income_expense			Rajat
+Party	lkp_producer_license_lob			Rajat
+Party	lkp_producer_type			Rajat
+Party	psycle_party_publ			Rajat
