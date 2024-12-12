@@ -8,3 +8,5 @@ fact_producer_ledger
 fact_producer_ltc_training
 fact_agent_candidate_lead_score
 fact_producer_fld_suprt_enroll
+fact_ctcp_opp_fin_activty_hist
+fact_related_contracts
